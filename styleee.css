@@ -1,0 +1,19 @@
+div.image
+
+  {
+
+  width:500px;
+
+  height:250px;
+
+  background:https://www.123rf.com/photo_89450873_child-s-hands-playing-with-numbers-learning-simple-multiplication.html
+
+  background-repeat:no-repeat;
+
+  background-position:center;
+
+  border:2px solid;
+
+  border-color:#CD853F;
+
+  }
